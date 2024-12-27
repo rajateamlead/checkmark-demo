@@ -86,3 +86,5 @@ public class BookDetail_jsp extends HttpJspBase {
 		printSanitizedName(userInfo);
 	}
 }
+
+//This is for testing
